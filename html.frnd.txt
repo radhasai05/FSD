@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>friends</title>
+</head>
+<body>
+<img src="Friends-Dp-1"alt="friends logo" width="700" height="50"/>
+</body>
+</html>
